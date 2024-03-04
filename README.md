@@ -1,6 +1,6 @@
 # phone
 
-### Phone V2.0.2
+### Chezza Phone V2.0.2
 
 ### Requirements
 * screenshot-basic
