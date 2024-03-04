@@ -15,3 +15,6 @@
 
 ### Support
 https://discord.gg/chezzastudios
+
+![image](https://github.com/siontm/Chezza-Phone-V2/assets/162148720/1e84ecd0-bdc6-406b-9e64-db4708c47b03)
+
